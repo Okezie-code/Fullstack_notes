@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# environment variables that contain secret data and configuration
+.env
+backend/.env
+frontend/.env
